@@ -1,3 +1,7 @@
-.privacy_edit_wrap a:after {
- content: ' и товарищ майор' 
+.privacy_edit_wrap a:not(#privacy_edit_wall_send):not(#privacy_edit_status_replies):not(#privacy_edit_mail_send):not(#privacy_edit_calls):not(#privacy_edit_appscall):not(#privacy_edit_groups_invite):not(#privacy_edit_apps_invite):not(#privacy_edit_friends_requests):not(#privacy_edit_stories_replies):not(#privacy_edit_updates):not(#privacy_edit_search_access):after {
+ content: ' и товарищ майор'
+}
+
+.privacy_edit_wrap #privacy_edit_search_access:after {
+ content: ' и товарищу майору'
 }
