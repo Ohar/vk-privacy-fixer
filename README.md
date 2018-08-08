@@ -16,9 +16,8 @@
 
 ## Как установить?
 
-Пока доступно только для Firefox.
-
-[Скачать с Firefox Add-ons](https://addons.mozilla.org/ru/firefox/addon/vk-privacy-fixer/).
+- [Chrome](https://chrome.google.com/webstore/detail/vk-privacy-fixer/pohbnlpdkafjchgjpioeoemnknjnffnn)
+- [Firefox](https://addons.mozilla.org/ru/firefox/addon/vk-privacy-fixer/)
 
 ## Иконки
 
