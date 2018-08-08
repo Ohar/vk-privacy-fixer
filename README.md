@@ -4,7 +4,7 @@
 
 # Как это выглядит?
 
-![Скриншот с примером](https://puu.sh/BaPce/898ebac9f1.png)
+![Скриншот с примером](https://raw.githubusercontent.com/Ohar/vk-privacy-fixer/master/screenshots/screenshot-920x680.png)
 
 # Зачем это?
 
