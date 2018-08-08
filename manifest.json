@@ -3,7 +3,7 @@
   "name": "VK Privacy Fixer",
   "version": "0.1",
   "author": "Pavel Lysenko aka Ohar <code@ohar.name>",
-  "description": " Исправляет описания настроек приватности во ВКонтакте на более реалистичные",
+  "description": "Исправляет описания настроек приватности во ВКонтакте на более реалистичные",
   "homepage_url": "https://github.com/Ohar/vk-privacy-fixer",
   "icons": {
     "48": "icons/icon-48.jpg",
