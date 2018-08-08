@@ -2,6 +2,7 @@
   "manifest_version": 2,
   "name": "VK Privacy Fixer",
   "version": "0.1a",
+  "author": "Pavel Lysenko aka Ohar <code@ohar.name>",
   "description": " Исправляет описания настроек приватности во ВКонтакте на более реалистичные",
   "icons": {
     "48": "icons/icon-48.png",
