@@ -1,0 +1,3 @@
+.privacy_edit_wrap a:after {
+ content: ' и товарищ майор' 
+}
