@@ -1,4 +1,4 @@
-.privacy_edit_wrap a:not(#privacy_edit_wall_send):not(#privacy_edit_status_replies):not(#privacy_edit_mail_send):not(#privacy_edit_calls):not(#privacy_edit_appscall):not(#privacy_edit_groups_invite):not(#privacy_edit_apps_invite):not(#privacy_edit_friends_requests):not(#privacy_edit_stories_replies):not(#privacy_edit_updates):not(#privacy_edit_search_access):after {
+.privacy_edit_wrap a:not(#privacy_edit_wall_send):not(#privacy_edit_status_replies):not(#privacy_edit_mail_send):not(#privacy_edit_calls):not(#privacy_edit_appscall):not(#privacy_edit_groups_invite):not(#privacy_edit_apps_invite):not(#privacy_edit_friends_requests):not(#privacy_edit_stories_replies):not(#privacy_edit_updates):not(#privacy_edit_search_access):not(#privacy_edit_profile_closed):after {
  content: ' и товарищ майор'
 }
 
